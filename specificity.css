@@ -1,0 +1,16 @@
+/* .cat-name {
+    color: yellow;
+
+} */
+p .cat-name {
+    color: red !important;
+}
+/* p.cat-name {
+    color: blue;
+}*/
+.cat-name {
+    color: yellow ;
+} 
+#cat {
+    color: pink ;
+}
