@@ -1,0 +1,15 @@
+ * {
+    /* color: blue; */
+    background-color: aqua;
+} 
+body {
+    /* font-size: larger; */
+    color: red;
+    background-color: blue;
+}
+ p {
+    color: unset; 
+    /* background-color: inherit; */
+    /* color: inherit; */
+    /* color: revert; */
+ }  
