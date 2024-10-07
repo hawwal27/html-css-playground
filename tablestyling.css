@@ -1,0 +1,11 @@
+table,
+th,
+td {
+ border: 1px solid #333;
+}
+tbody tr:nth-child(odd) {
+    background-color: #af47ff;
+   }
+   
+   
+
