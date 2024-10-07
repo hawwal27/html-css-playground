@@ -1,0 +1,16 @@
+.bordered-box {
+    border: 30px solid pink;
+    height: 40vh;
+    border-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/652/pink-doily-bdr.png") 30;
+  }
+  
+  
+  
+  /* styling for Pen, unrelated to border-image */
+  body { background-color: #1D1F1F; }
+  
+  
+  div {
+    width: 40vw;
+    margin: 1em auto;
+  }
