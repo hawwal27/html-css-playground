@@ -1,0 +1,69 @@
+/* .man, .parent {
+    background-color: #af47ff;
+    padding: 30px;
+    width: 300px;
+    margin-top: 50px; */
+    /* margin-left: 50px; */
+    /* margin-bottom: 50px; */
+/* } */
+.man {
+    background-color: #af47ff;
+    padding: 30px;
+    width: 300px;
+    /* margin-top: 50px; */
+    /* margin-left: 50px; */
+    /* margin-bottom: px; */
+}
+.parent {
+    /* position: relative; */
+    /* top: 0px; */
+    background-color: #af47ff;
+    padding: 30px;
+    width: 300px;
+    margin-top: 0px;
+    margin-left: 362px;
+    /* margin-bottom: 100px; */
+}
+
+
+.go, .child {
+    /* background-color: #ff4797; */
+    padding: 30px;
+    position: relative;
+    /* top: 30px; */
+    
+
+}
+.box {
+    background-color: #f3ff47;
+    /* position: relative; */
+    /* position: absolute; */
+    position: fixed;
+    /* top: 0px; */
+    bottom: 0px;
+    /* left: 0px; */
+    right: 0px;
+    padding: 30px;
+    border: 2px solid #333;
+    border-style: dotted;
+    font-family: Courier;
+    /* text-align: center; */
+    font-size: 2rem;
+}
+.me {
+    background-color: #f3ff47;
+    /* position: relative; */
+    /* position: absolute; */
+    position: fixed;
+    top: 0px;
+    /* bottom: -60px; */
+    left: 0px;
+    /* right: 60px; */
+    padding: 30px;
+    border: 2px solid #333;
+    border-style: dotted;
+    font-family: Courier;
+    text-align: center;
+    font-size: 2rem;
+    
+}
